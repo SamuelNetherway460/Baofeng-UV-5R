@@ -1,6 +1,8 @@
 # Baofeng-UV-5R
 
 ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-5R?sort=semver)
+![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-5R)
+![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R)
 ![issues](https://img.shields.io/github/issues/SamuelNetherway460/Baofeng-UV-5R)
 ![downloads](https://img.shields.io/github/downloads/SamuelNetherway460/Baofeng-UV-5R/total)
 
