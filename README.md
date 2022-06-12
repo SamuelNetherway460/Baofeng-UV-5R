@@ -24,14 +24,26 @@ Repository for the Baofeng UV-5R digital radio. Contains all documents relating 
 1. Download and install [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home).
 2. Download the source / radio images from the [Releases](https://github.com/SamuelNetherway460/Baofeng-UV-5R/releases) page.
 3. Launch Chirp.
+<Chirp Launched.png>
 4. Connect the Baofeng UV-5R to the PC using the USB programming cable.
-5. Connect to the radio in Chirp selecting the correct communication port.
-6. Click "Download from Radio" and save a backup .img file.
-7. Open the .img file contained within the release.
-8. Click "Upload to Radio".
-9. Turn off the radio.
-10. Disconnect the radio from the PC and USB programming cable.
-11. Turn on the radio and check that the radio image has been correctly uploaded.
+5. Turn on the radio.
+6. In the menu bar, click "Radio" and then "Download From Radio".
+<Download From Radio.png>
+7. Select the correct Port, Vendor and Model using the drop down boxes.
+8. Click "Ok".
+9. Click "Ok".
+<Baofeng UV-5R Instructions.png>
+10. Wait for Chrip to finish cloning the current radio programming.
+<Cloning Programming.png>
+    The current programming will then be displayed.
+<Current Programming.png>
+11. In the menu bar, click "File", then "Save As".
+<Save Backup.png>
+12. Navigate the File Explorer and click "Save" to save a backup of the current radio configuration.
+<Save Radio Image.png>
+13. In the menu bar, click "File", then "Open".
+<Open Radio Image File.png>
+14. 
 
 ## Radio Specs
 - Earpiece / mic type : Kenwood Plug type
