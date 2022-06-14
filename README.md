@@ -15,7 +15,7 @@ Repository for the Baofeng UV-5R digital radio. Contains all documents relating 
 ## Configuration Status
 | Configuration | Last Commit | Latest Release | Release Date |
 | :---: | :---: | :---: | :---: |
-| PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R/Config-PMR446) | ![version](https://img.shields.io/badge/release-PMR446--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-06--06--2022-brightgreen) |
+| PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R/Config-PMR446) | ![version](https://img.shields.io/badge/release-PMR446--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 | Foundation    | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R/Config-Foundation) | ![version](https://img.shields.io/badge/release-Foundation--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 | Intermediate  | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R/Config-Intermediate) | ![version](https://img.shields.io/badge/release-Intermediate--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 | Full          | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R/Config-Full) | ![version](https://img.shields.io/badge/release-Full--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
