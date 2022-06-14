@@ -2,11 +2,11 @@
 <h3 align="center">Configuration images, manuals, general documentation and .csv format frequency configurations.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus">
-  <img src="https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus">
-  <img src="https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus">
-  <img src="https://img.shields.io/github/issues/SamuelNetherway460/Baofeng-UV-9RPlus">
-  <img src="https://img.shields.io/github/downloads/SamuelNetherway460/Baofeng-UV-9RPlus/total">
+  <img src="https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R">
+  <img src="https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-5R">
+  <img src="https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-5R">
+  <img src="https://img.shields.io/github/issues/SamuelNetherway460/Baofeng-UV-5R">
+  <img src="https://img.shields.io/github/downloads/SamuelNetherway460/Baofeng-UV-5R/total">
 </p>
 
 ## Description
