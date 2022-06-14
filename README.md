@@ -21,8 +21,8 @@ Repository for the Baofeng UV-5R digital radio. Contains all documents relating 
 | Full          | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-5R/Config-Full) | ![version](https://img.shields.io/badge/release-Full--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 
 ## Radio Specs
-- Earpiece / mic type : Kenwood Plug type
-- Antenna : SMA -Female
+- Earpiece / mic type: Kenwood Plug type
+- Antenna: SMA -Female
 - Frequency Range: 136-174  / 400-520MHz
 - Tri-Color Display, Dual Freq. Display, Dual-Standby
 - Output Power: 4 /1Watts
