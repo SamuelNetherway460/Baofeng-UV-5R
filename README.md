@@ -54,6 +54,7 @@ Repository for the Baofeng UV-5R digital radio. Contains all documents relating 
 ![Download From Radio](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Download%20From%20Radio.png)
 7. Select the correct Port, Vendor and Model using the drop down boxes.
 8. Click "Ok".
+![Select Correct Port, Vendor and Model](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Select%20Port,%20Vendor%20and%20Model.png)
 9. Click "Ok".  
 ![Baofeng UV-5R Instructions](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Baofeng%20UV-5R%20Instructions.png)
 10. Wait for Chrip to finish cloning the current radio programming.  
@@ -62,7 +63,7 @@ Repository for the Baofeng UV-5R digital radio. Contains all documents relating 
 ![Current Programming](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Current%20Programming.png)
 11. In the menu bar, click "File", then "Save As".  
 ![Save Backup](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Save%20Backup.png)
-12. Navigate the File Explorer and click "Save" to save a backup of the current radio configuration.  
+12. Navigate the File Explorer and click "Save" to save a backup of the current radio image.  
 ![Save Radio Image](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Save%20Radio%20Image.png)
 13. In the menu bar, click "File", then "Open".  
 ![Open Radio Image File Menu Bar](https://github.com/SamuelNetherway460/Baofeng-UV-5R/blob/Documentation/res/Open%20Radio%20Image%20File%20Menu%20Bar.png)
